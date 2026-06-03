@@ -1,0 +1,140 @@
+WORK IN PROGESS
+
+Gabriele Giuliani
+	Roma, 00118, Italia (Abitazione)
+
+
+	CONTATTI
+		e-mail: glngab95@gmail.com
+		Cellulare: (+39) 388 756 4985
+		LinkedIn: https://www.linkedin.com/in/gabriele-giuliani-22b862234/
+
+
+	PRESENTAZIONE
+		Laureato in Informatica e Cybersecurity, con interesse per sicurezza informatica, analisi dei dati e sviluppo software con esperienze lavorative in contesti non IT che hanno permesso di sviluppare adattabilità, problem solving e responsabilità operativa.
+		Attualmente alla ricerca di una posizione junior in ambito cybersecurity per applicare e consolidare le competenze acquisite durante il percorso di studi, con l’obiettivo di crescere professionalmente nel settore
+
+
+	ESPERIENZA LAVORATIVA
+		Business Intelligence Analyst - Keplerus Data Science - 2020-Attuale
+			Attività di analisi e modellazione dei dati a supporto dei processi decisionali aziendali.
+			Sviluppo di report e dashboard per il monitoraggio e l’analisi delle KPI.
+
+
+	ISTRUZIONE E FORMAZIONE
+		2020 – 2025 Roma, Italia
+			Laurea Magistrale in Cyber Security Università La Sapienza
+		2014 – 2020 Roma, Italia
+			Laurea Triennale in Informatica Università di Tor Vergata
+		2009 – 2014 Ciampino, Italia
+			Diploma Scuola Secondaria di 2° grado Liceo Scientifico Vito Volterra
+
+
+	COMPETENZE
+		SVILUPPO
+			C
+			Java 
+			SQL 
+			LaTeX 
+		PROGRAMMI
+			Microsoft Office
+			Pinnacle Studio
+			Vegas Pro
+			DaVinci Resolve
+			Canva
+			Overleaf
+		SISTEMI OPERATIVI
+			Windows
+			Linux
+			Android
+
+
+	PROGETTI
+		23/09/2025 – 23/09/2025
+		Workshop Denuncia @via Web:
+			Ho partecipato attivamente a un workshop organizzato da PagoPA in collaborazione con SMC, finalizzato allo sviluppo della funzionalità Denuncia @via Web nell’app IO, che permette di segnalare ai Carabinieri lo smarrimento di documenti ed effetti personali senza doversi recare in caserma, semplificando così le procedure burocratiche delle forze dell’ordine.
+		20/02/2023 – 27/05/2023
+		Tessera Sanitaria Elettronica Avanzata (TSEA):
+			Ho progettato, per un esame universitario, un prototipo di documento, lato hardware e software, per tracciare le prestazioni sanitarie sia dai medici sia dai pazienti, con l’obiettivo di velocizzare il SSN e ridurre i rischi di complicazioni, soprattutto in caso di emergenza.
+		20/02/2023 – 27/05/2023
+		Arkadia Pub 4.0:
+			Ho progettato, per un esame universitario, attività e miglioramenti nell'esercizio commerciale in cui lavoravo, con l’obiettivo di ampliare la clientela, migliorarne l’esperienza, aumentare i ricavi e ridurre i costi, integrando le mie competenze informatiche.
+		04/03/2019 – 07/06/2019
+		Automatic Vacation Generator System (AVGS):
+			Ho progettato, per un esame universitario, un prototipo di applicazione basata su Intelligenza Artificiale, antecedente alla sua diffusione mainstream, finalizzata ad assistere gli utenti nella scelta di nuove mete turistiche in base alle esperienze precedenti vissute.
+		04/03/2019 – 07/06/2019
+		DataBase Mercatino dell'Usato:
+			Ho progettato e sviluppato, per un esame universitario, un prototipo di database, finalizzato a risolvere un problema di gestione della merce in una catena di negozi, basandomi sull’esperienza di un punto vendita che frequento spesso, sito vicino la mia abitazione.
+
+
+	COMPETENZE LINGUISTICHE
+		LINGUA MADRE: Italiano
+		Altre lingue:
+			Inglese: Ascolto B2, Produzione orale B2, Lettura B2, Interazione orale B2, Scrittura B2
+			Spagnolo: Ascolto A2, Produzione orale A2, Lettura A2, Interazione orale A2, Scrittura A2
+
+
+	ATTIVITÀ SOCIALI E POLITICHE
+		2016 – 2018 Comune di Ciampino
+			Consigliere Giovanile
+
+
+	PATENTE DI GUIDA
+		AM
+		B
+
+
+	ALTRE ESPERIENZE
+		03/2023 – Attuale
+		Gestore di eventi - Eden Ristopub, Arkadia Pub Marino, Italia
+			Ideazione e pianificazione completa delle serate, dal concept alla realizzazione
+			Creazione della grafica promozionale e dei materiali visivi per i social
+			Selezione e coordinamento di artisti, DJ e partecipanti
+			Gestione della comunicazione e promozione sui social network
+			Supervisione dell’organizzazione logistica del locale e delle attrezzature
+			Coordinamento dello staff durante l’evento
+			Gestione delle iscrizioni, della biglietteria e del controllo accessi
+			Monitoraggio e bilancio delle entrate e delle spese
+			Produzione di contenuti multimediali: riprese, conduzione e dirette
+			Post-produzione video, editing e pubblicazione sui canali social
+			Raccolta e analisi dei feedback per migliorare gli eventi futuri
+		04/2021 – 07/2024
+		Cameriere:
+			Mi sono occupato della preparazione degli ambienti e dell’organizzazione delle prenotazioni, accogliendo i clienti e assicurando un servizio cortese e puntuale.
+			Ho gestito la raccolta delle ordinazioni, il servizio ai tavoli e i pagamenti, mantenendo ordine e pulizia nelle aree di lavoro per garantire un’esperienza piacevole e curata.
+		07/2017 – 07/2024
+		Fattorino:
+			Mi sono occupato della preparazione, organizzazione e consegna degli ordini richiesti ai diversi locali in cui ho lavorato.
+			Ho gestito i pagamenti, curato il corretto trasporto dei prodotti e la manutenzione del mezzo utilizzato, ottimizzando i percorsi per ridurre i tempi di consegna.
+		05/2019 – 02/2023
+		Scrutatore:
+			Mi sono occupato della preparazione e dell’organizzazione del seggio elettorale, accogliendo gli elettori e collaborando nelle varie operazioni di voto.
+			Ho curato il controllo delle procedure, lo scrutinio delle schede e la compilazione dei verbali, garantendo precisione, trasparenza e rispetto delle norme elettorali fino alla chiusura del seggio.
+		09/2015 – 05/2016
+		Artista Video:
+			Mi sono occupato dell’ideazione, pianificazione e realizzazione di progetti audiovisivi commissionati da Istituti Religiosi.
+			Ho curato ogni fase della produzione, dalle riprese all'editing, fino alla finalizzazione dei contenuti, al fine di diffonderli sui canali digitali.
+
+
+	VOLONTARIATO
+		2016 – 2018 Roma
+		Comparsa
+			Ho partecipato come comparsa ad alcuni video musicali e cortometraggi, prendendo parte sia alle scene girate che ad alcune attività di ripresa collaborando con videomaker e attori, anche dietro le quinte.
+			Il mio impegno ha contribuito alla buona riuscita delle riprese, permettendomi di conoscere più da vicino il processo creativo e il funzionamento di un set.
+		2014 – 2017 Sarconi
+		Netturbino:
+			Ho svolto attività di supporto come netturbino durante le locali feste di paese, occupandomi della pulizia e della gestione dei rifiuti in tutta l'area dell'evento.
+			Il mio impegno ha contribuito a mantenere un ambiente ordinato e sicuro per i partecipanti, supportando l’organizzazione dell’evento e garantendo che si svolgesse in modo efficiente e piacevole per tutti.
+
+
+	HOBBY E INTERESSI
+		Wushu Sanda
+			Pratico regolarmente il Sanda, una disciplina che combina tecniche di combattimento.
+			Ho conseguito cinture di primo livello e mi dedico a questo sport per migliorare la mia forza fisica, agilità e coordinazione, sviluppando anche una maggiore resistenza mentale e capacità di reazione.
+		Nuoto
+			Pratico nuoto libero in piscina, con una particolare attenzione alla gestione dei problemi di schiena.
+			Ho conseguito brevetti di livello base e svolgo questa attività per migliorare la muscolatura, la resistenza fisica e il fiato, contribuendo al mio benessere generale.
+
+
+	DICHIARAZIONE FINALE
+		Autorizzo il trattamento dei miei dati personali presenti nel CV ai sensi dell’art. 13 d. lgs. 30 giugno 2003 n. 196 - “Codice in materia di protezione dei dati personali” e dell’art. 13 GDPR 679/16 - “Regolamento europeo sulla protezione dei dati personali”.
