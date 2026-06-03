@@ -1,9 +1,14 @@
 <div align="center">
-	<img src="banner.png" width="100%" alt="Info Banner" />
+	<img src="banner1.png" width="100%" alt="Info Banner Cover" />
+</div>
+<div align="center">
+	<img src="banner2.png" width="100%" alt="Info Banner Details" />
 </div>
 
-<h1 align="center">Hi there, I'm Gabriele Giuliani 👋</h1>
-<h3 align="center">Software Engineer | SQL, Python, ETL | Graduated Informatica L-31 & CyberSecurity LM-66</h3>
+
+<h1 align="center">Hi there, I'm Gabriele Giuliani</h1>
+<h3 align="center"> Cybersecurity, Business Intelligence, Software Development | Kali, ETL, Pyhton | Graduated in Computer Science @Tor Vergata & in Cyber Security @Sapienza</h3>
+
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/gabriele-giuliani-22b862234">
@@ -16,56 +21,55 @@
 
 ---
 
-<!--
-**giulianigabbo95/giulianigabbo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+Nutro interesse per sicurezza informatica, analisi dei dati e sviluppo software.
+Ho esperienze lavorative in contesti non solo IT che hanno permesso di sviluppare adattabilità, problem solving e responsabilità operativa.
+Attualmente sono alla ricerca di una posizione junior in ambito cybersecurity per applicare e consolidare le competenze acquisite durante il percorso di studi, con l’obiettivo di crescere professionalmente nel settore.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Autore
-Sono Gabriele, un ragazzo dinamico, con una formazione accademica in Informatica e CyberSecurity, ambito professionale nel quale desidero crescere e specializzarmi, dopo molte esperienze in vari settori.
-
-## Contatti
-e-mail: giulianigabbo95@gmail.com  
+## Contacts
+e-mail: glngab95@gmail.com  
 LinkedIn: [Gabriele Giuliani](https://www.linkedin.com/in/gabriele-giuliani-22b862234)
 
-## Esperienza Lavorativa
-- 2020 - 2026: Data Analyst - Keplerus Data Science
+## Work Experience
+- 2020 - 2026: Business Intelligence Analyst - Keplerus Data Science
 
-## Formazione
+## Education
 - 2026: Corso Python & Machine Learning - ITConsulting
-- 2025: Laurea Magistrale in Cyber Security -  Università La Sapienza
+- 2025: Laurea Magistrale in Cyber Security - Università La Sapienza
 - 2020: Laurea Triennale in Informatica - Università di Tor Vergata
 
-## Competenze Tecniche
-- Linguaggi di Programmazione:
+## Tech Skills
+- Linguaggi di Programmazione Imperativa:
 	- C
 	- C#
+	- C++
 	- Python
 	- Java
+	- Javascript
+	- PHP
 	- VB.NET
-	- Prolog
 	- Arduino
-- Linguaggi Dichiarativi:
+	- Bash
+- Linguaggi di Programmazione Dichiarativa:
 	- SQL
-- Markup & Documentazione:
+	- Prolog
+- Linguaggi di Markup, Documentazione & Stile:
+	- HTML
+	- CSS
 	- Markdown
 	- LaTeX
-- Software & Strumenti: 
-	- Microsoft Office
-	- Visual Studio
+- Strumenti:
+	- LLMs
 	- Git
-	- GitHub
-	- Overleaf
+- Programmi: 
+	- IDEs
+	- Text Editors
+	- Git Clients
+	- SQL Clients
+	- Docker
+	- Power BI
+	- Slack
+	- Suite Office
 - Sistemi Operativi:
 	- Windows
 	- Ubuntu
@@ -73,7 +77,7 @@ LinkedIn: [Gabriele Giuliani](https://www.linkedin.com/in/gabriele-giuliani-22b8
 	- Parrot
 	- Android
 
-## Progetti
+## Projects
 - 2026: Image Recognizer Bot
 - 2025: Workshop Denuncia @via Web
 - 2023: Tessera Sanitaria Elettronica Avanzata (TSEA)
@@ -82,17 +86,25 @@ LinkedIn: [Gabriele Giuliani](https://www.linkedin.com/in/gabriele-giuliani-22b8
 - 2019: Automatic Vacation Generator System (AVGS)
 - 2019: DataBase Mercatino dell'Usato
 
-## Lingue Conosciute
+## Languages
 - Italiano (Lingua Madre)
-- Inglese: Ascolto B2, Produzione orale B2, Lettura B2, Interazione orale B2, Scrittura B2
-- Spagnolo: Ascolto A2, Produzione orale A2, Lettura A2, Interazione orale A2, Scrittura A2
+- Inglese: Ascolto C1, Produzione Orale C1, Lettura C1, Interazione Orale C1, Scrittura C1
+- Spagnolo: Ascolto B1, Produzione Orale B1, Lettura B1, Interazione Orale B1, Scrittura B1
+- Francese: Ascolto A1, Produzione Orale A1, Lettura A2, Interazione Orale A1, Scrittura A1
 
-## Hobby
-- CTF (Capture The Flag): partecipo a challenge di cybersecurity allenando problem solving e capacità di analisi su piattaforme come TryHackMe e Hack The Box
+## Hobbies
+- Capture The Flag (CTF): partecipo a challenge di cybersecurity allenando problem solving e capacità di analisi su piattaforme come TryHackMe e Hack The Box
 - Hackathon: partecipo a eventi di sviluppo software lavorando in team e realizzando prototipi in tempi ristretti
 
-## 📚 Current Learning Focus
-In continuo aggiornamento per trasformare conoscenza teorica in competenze concrete.
+## Current Learning Focus
+Approfondimento di ethical hacking e network security, con esercitazioni pratiche in ambienti simulati tramite piattaforme hands-on dedicate.
+
+# CV
+Scarica o leggi il mio Curriculum Vitae:
+- [PDF (italiano)](./CVs/CV_Gabriele_Giuliani_2026-05-01_(Europass)_IT_Medio_[ITA]_Template_Elegante_(Colonne).pdf)
+- [DOCs (italiano)](https://docs.google.com/document/d/113f7qo048l0sQN8QfDyV-UYDVZGCX64m6aVYRvpLIYg/edit?usp=sharing)
+- [Word (italiano)](./CVs/CV_Gabriele_Giuliani_2026-05-01_(Word)_IT_Medio_[ITA]_Template_NeoLaureato_(Lineare).docx)
+- [LaTeX (inglese)](https://www.overleaf.com/read/zqvdwhcwwqmn#20806a)
 
 ---
 
