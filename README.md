@@ -128,10 +128,10 @@ Approfondimento di ethical hacking e network security, con esercitazioni pratich
 
 ## &#128196; CV
 Scarica o leggi il mio Curriculum Vitae:
-- [Formato Europass (pdf)](./CVs/CV_Gabriele_Giuliani_2026-06-01_(Europass)_IT_Medio_[ITA]_Template_Elegante_(Colonne).pdf)
+- [Formato Europass (pdf)](./CVs/CV_Gabriele_Giuliani_2026-06-01_(Europass)_Corto_[ITA]_Template_Elegante_(Colonne)_IT.pdf)
 - [Formato DOCs (docx)](https://docs.google.com/document/d/113f7qo048l0sQN8QfDyV-UYDVZGCX64m6aVYRvpLIYg/edit?usp=sharing)
-- [Formato Word (docx)](./CVs/CV_Gabriele_Giuliani_2026-06-01_(Word)_IT_Medio_[ITA]_Template_NeoLaureato_(Lineare).docx)
-- [Formato PlainText (txt) ]()
+- [Formato Word (docx)](./CVs/CV_Gabriele_Giuliani_2026-06-01_(Word)_Medio_[ITA]_Template_NeoLaureato_(Lineare)_IT.docx)
+- [Formato PlainText (txt)](./CVs/CV_Gabriele_Giuliani_2026-06-01_(Blocco_Note)_Medio_[ITA]_(Lineare)_IT.txt)
 - [Formato LaTeX (pdf) [inglese]](https://www.overleaf.com/read/zqvdwhcwwqmn#20806a)
 
 ---

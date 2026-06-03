@@ -126,10 +126,10 @@ An in-depth look at ethical hacking and network security, with practical exercis
 ## :page_facing_up: CV
 Download or read my Curriculum Vitae:
 - [LaTeX Format (pdf)](https://www.overleaf.com/read/zqvdwhcwwqmn#20806a)
-- [Europass Format (pdf) [Italian]](./CVs/CV_Gabriele_Giuliani_2026-06-01_(Europass)_IT_Medio_[ITA]_Template_Elegante_(Colonne).pdf)
+- [Europass Format (pdf) [Italian]](./CVs/CV_Gabriele_Giuliani_2026-06-01_(Europass)_Corto_[ITA]_Template_Elegante_(Colonne)_IT.pdf)
 - [DOCs Format (docx) [Italian]](https://docs.google.com/document/d/113f7qo048l0sQN8QfDyV-UYDVZGCX64m6aVYRvpLIYg/edit?usp=sharing)
-- [Word Format (docx) [Italian]](./CVs/CV_Gabriele_Giuliani_2026-06-01_(Word)_IT_Medio_[ITA]_Template_NeoLaureato_(Lineare).docx)
-- [PlainText Format (txt) ]()
+- [Word Format (docx) [Italian]](./CVs/CV_Gabriele_Giuliani_2026-06-01_(Word)_Medio_[ITA]_Template_NeoLaureato_(Lineare)_IT.docx)
+- [PlainText Format (txt)](./CVs/CV_Gabriele_Giuliani_2026-06-01_(Blocco_Note)_Medio_[ITA]_(Lineare)_IT.txt)
 
 ---
 
